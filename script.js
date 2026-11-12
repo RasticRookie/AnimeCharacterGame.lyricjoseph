@@ -402,12 +402,12 @@ function display() {
       } 
 
         else if (Score5 > Score6 && Score1 > Score6 && Score2 > Score6 && Score3 > Score6 && Score5 == Score1 && Score5 == Score2 && Score5 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-          result.innerHTML = "You are a QUEEN! Your aura is overwhelming and no one can predict your next thought or action. Many look up to you, as you have maintain peace throughout the land for many years. Your well rounded nature leaves many trusting your guidance and protection without a second thought. That crown not only carries the weight of gold and jewels, but also the weight of being a good ruler.";
+          result.innerHTML = "You are a NARUTO UZUMAKI!";
           console.log("You are a QUEEN!");
         } 
 
           else if (Score6 > Score5 && Score1 > Score5 && Score2 > Score5 && Score3 > Score5 && Score5 == Score5 && Score6 == Score2 && Score6 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-            result.innerHTML = "You are a VAGABOND! From town to town you travel, calling no place home. It's dificult when the only one you can rely on is yourself. But you get by. This wandering lifestyle has brought you many friends in distant lands and many stories saved for a mysterious drink in bars. You're the one who walks in suddenly on a dark and stormy night with nothing but a sword and a few coins.";
+            result.innerHTML = "You are a BAKUGO KATSUKI!";
             console.log("You are a NOMAD!");
           } 
 
