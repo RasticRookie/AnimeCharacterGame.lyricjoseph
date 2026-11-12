@@ -392,7 +392,7 @@ function display() {
   }
 
     else if (Score5 > Score3 && Score6 > Score3 && Score2 > Score3 && Score1 > Score3 && Score5 == Score6 && Score5 == Score2 && Score5 == Score1 && Score6 == Score2 && Score6 == Score1 && Score2 == Score1) {
-      result.innerHTML = "You are a FEARLESS SWORDSMAN! As a true swordsman, you live by honor and a duty to the sword. Your agility and battle IQ make you a lethal opponent, but also makes people fear you. Because of this, you are very lonely and try to fill that void by causing violence and destruction everywhere you go";
+      result.innerHTML = "You are a Zoro! As a true swordsman, you live by honor and a duty to the sword. Your agility and battle IQ make you a lethal opponent, but also makes people fear you. Because of this, you are very lonely and try to fill that void by causing violence and destruction everywhere you go";
       console.log("You are a FEARLESS SWORDSMAN!");
     }
 
