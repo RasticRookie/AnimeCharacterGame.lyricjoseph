@@ -317,87 +317,87 @@ function updateResult() {
 
 function display() {
       if (Score1 > Score3 && Score1 > Score2 && Score1 > Score5 && Score1 > Score6) {
-        result.innerHTML = "You are the KING'S FOOL! He and everyone else in town hates your jokes, but you say stupid things on accident that make him laugh. Keep it up! You could become the greatest jester one day!";
+        result.innerHTML = "You are the YUJI ITADORI!";
         console.log("You are a FOOL!");
       } 
       
       else if (Score2 > Score3 && Score2 > Score1 && Score2 > Score5 && Score2 > Score6) {
-        result.innerHTML = "You are a FAIRY! Your house is deep in the woods and the animals love your kind aura. Most days are spent frolicking and tending to your garden. Sometimes the eagles come to gossip about what they saw and heard throughout the day, so you make them cookies and have a good chat.";
+        result.innerHTML = "You are MINA ASHIDO!";
         console.log("You are a FAIRY!");
       } 
       
       else if (Score3 > Score1 && Score3 > Score2 && Score3 > Score5 && Score3 > Score6) {
-    result.innerHTML = "You are a KNIGHT! With great battle skills you win many wars and are said to be the Queen's best fighter. You could be appointed as her personal royal guard after retirement, so NO SLACKING!";
+    result.innerHTML = "You are L LAWLIET!";
     console.log("You are a CUTIE!");
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score3 && Score5 > Score6) {
-    result.innerHTML = "You are the ROYAL ADVISOR! Your aura is intense and your work is second best to none. While being the main decider between war and peace, many look up to you, but they think the secret 'adult parties' you host are strange...";
+    result.innerHTML = "You are the EJIROU KIRISHIMA!";
     console.log("You are a  ROYAL ADVISOR!");
   }
 
   else if (Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 > Score3) {
-    result.innerHTML = "You are a WIZARD! You're a salary employee of the King, but make the best remedies and potions in all the land. Althought your magic is very powerful, there is 100% a glock in you're wizard's beard if things get tricky, another reason why many respect you. They never forget to pay you for your services.";
+    result.innerHTML = "You are KILLUA ZOLDYCK!";
     console.log("You are a WIZARD!");
   }
 
   else if (Score6 > Score1 && Score6 > Score5 && Score6 > Score3 && Score2 > Score1 && Score2 > Score3 && Score2 > Score5 && Score6 == Score2) {
-    result.innerHTML = "You are an EXPERT TOURTURER for CRIMINALS! Although quite docile at times, you wanted to punish criminals and make them regret their crimes. Most days are spent in the woods or thinking up new tourture designs for your next victims.";
+    result.innerHTML = "You are SASUKE UCHIHA!";
     console.log("You are an EXPERT TOURTURER for CRIMINALS!!");
   }
 
   else if (Score1 > Score3 && Score1 > Score5 && Score1 > Score6 && Score2 > Score6 && Score2 > Score3 && Score2 > Score5 && Score1 == Score2) {
-    result.innerHTML = "You are a WITCH! Unlike your wizard friend, you get paid only when weary travelers are in need of aid. If the Royal Court got wind of you're abilities, you couldn't live off the land in the woods anymore! Because of this, you rarely go into town and have hundreds of concoctions laying around your house.";
+    result.innerHTML = "You are YUMEKO JIBAMI!";
     console.log("You are a WITCH!");
   }
 
   else if (Score1 > Score2 && Score1 > Score5 && Score1 > Score6 && Score3 > Score6 && Score3 > Score2 && Score3 > Score5 && Score1 == Score3) {
-    result.innerHTML = "You are a CULT LEADER AGAINST THE KING! He has been a bad ruler for far too long, making wages incredibly low and taxes incredibly high. You're a very good motivator, but you're not the best at planning a time to overthrow him. Because of this, you and you're band of angry followers usually wander the streets yelling and get into trouble.";
+    result.innerHTML = "You are LELOUCH LAMPAROUGE!";
     console.log("You are a CULT LEADER AGAINST THE KING!");
   }
 
   else if (Score3 > Score2 && Score3 > Score5 && Score3 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 == Score3) {
-    result.innerHTML = "You are a NECROMANCER! This power has been past through your family for generations, making you loads of money as a fourtune teller in every town you pass through. You usually spend your time in each town holding 'adult parties' with the local aristocrats and flaunting your wealth.";
+    result.innerHTML = "You are BOA HANCOCK!";
     console.log("You are a HUNTSMAN!");
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score3 && Score6 == Score5) {
-    result.innerHTML = "You are a PIRATE! Although your captain and crew are very new at this, you've decided to travel the world with them and explore. Most of your time is spent on the coast of islands while other times are speant plundering the local docked ships. Sometimes the captain decides everyone has to save a random island from opression, but usally you just sail across the seas.";
+    result.innerHTML = "You are MONKEY D. LUFFY! Although your captain and crew are very new at this, you've decided to travel the world with them and explore.";
     console.log("You are a PIRATE!");
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score6 && Score1 > Score6 && Score1 > Score2 && Score1 > Score3 && Score1 == Score5) {
-    result.innerHTML = "You are a MERMAID! Within the vast ocean, you like to cause mischief and mayhem. Sometimes you hit your mighty tail against ships to cause panic and other times you sink them. Depends on the day. You hate those filthy pirates and enjoy killing the ones that fall in the ocean. Recently, you discovered a red-haired maiden with a red popcicle on the coast of an island where you just bit a man's arm off. How enchanting...";
+    result.innerHTML = "You are NANA OSAKI!";
     console.log("You are a MERMAID!");
   }
 
   else if (Score1 > Score2 && Score1 > Score3 && Score1 > Score5 && Score6 > Score3 && Score6 > Score2 && Score6 > Score5 && Score1 == Score6) {
-    result.innerHTML = "You are a HARLOT! Nothing more needs to be said...";
+    result.innerHTML = "You are SAIKI K!";
     console.log("You are a HARLOT!");
   }
 
   else if (Score2 > Score1 && Score2 > Score3 && Score2 > Score6 && Score5 > Score3 && Score5 > Score1 && Score5 > Score6 && Score2 == Score5) {
-    result.innerHTML = "You are a CRIMINAL! Tommorow you are going to be burned at the stake, but tonight you must suffer at the hands of the expert tourturer. She won't go easy on you...";
+    result.innerHTML = "You are EREN YEAGER!";
     console.log("You are a CRIMINAL!");
   }
 
   else if (Score2 > Score1 && Score2 > Score5 && Score2 > Score6 && Score3 > Score5 && Score3 > Score1 && Score3 > Score6 && Score2 == Score3) {
-    result.innerHTML = "You are a GARGOYLE! You fly around the world, but can only do so for a few hours of the day because of you're heavy wings. Most people think you're a statue, but those idiots don't know it's your body's defense mechanism.";
+    result.innerHTML = "You are IZUKU MIDORIYA!";
     console.log("You are a !");
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score6 && Score3 > Score6 && Score3 > Score1 && Score3 > Score2 && Score5 == Score3) {
-    result.innerHTML = "You are a GNOME! Filled with a passion for mischief, you regularly disrupt palace officials and trip the local soldiers. Most of you're days are filled with toomfoolery and shennaigans while you enjoy a sweet treat.";
+    result.innerHTML = "You are a YOR FORGER!";
     console.log("You are a GNOME!");
   }
 
     else if (Score5 > Score3 && Score6 > Score3 && Score2 > Score3 && Score1 > Score3 && Score5 == Score6 && Score5 == Score2 && Score5 == Score1 && Score6 == Score2 && Score6 == Score1 && Score2 == Score1) {
-      result.innerHTML = "You are a Zoro! As a true swordsman, you live by honor and a duty to the sword. Your agility and battle IQ make you a lethal opponent, but also makes people fear you. Because of this, you are very lonely and try to fill that void by causing violence and destruction everywhere you go";
+      result.innerHTML = "You are PIRATE HUNTER ZORO!";
       console.log("You are a FEARLESS SWORDSMAN!");
     }
 
       else if (Score5 > Score1 && Score6 > Score1 && Score2 > Score1 && Score3 > Score1 && Score5 == Score6 && Score5 == Score2 && Score5 == Score3 && Score6 == Score2 && Score6 == Score3 && Score2 == Score3) {
-        result.innerHTML = "You are a DRAGON! Your hot flames and overwhelming size makes it hard to find friends and a house large enough for you. After settling on a cave, you lived alone in solitude for many years. One day, a small woman came to you with a prophecy and a plea for you to help. Now you aid her on her quest, finally finding a purpose, friend, and feeling of home.";
+        result.innerHTML = "You are GON FREECSS!"; 
         console.log("You are a DRAGON!");
       } 
 
@@ -412,7 +412,7 @@ function display() {
           } 
 
   else {
-    result.innerHTML = "You are a SUPER SKIBIDI SIGMA!";
+    result.innerHTML = "You are SATORU GOJO!";
     console.log("SOmethings wrong...!");
   }
   
