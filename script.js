@@ -397,7 +397,7 @@ function display() {
     }
 
       else if (Score5 > Score1 && Score6 > Score1 && Score2 > Score1 && Score3 > Score1 && Score5 == Score6 && Score5 == Score2 && Score5 == Score3 && Score6 == Score2 && Score6 == Score3 && Score2 == Score3) {
-        result.innerHTML = "You are GON FREECSS!"; 
+        result.innerHTML = "You are GON FREECSS! After catching the biggest fish in the island, you were able to take the Hunter Exam, not knowing what adventures await you! With an open mind and even more open heart, it was impossible not to find a calmer best friend along the way! Your optimism will bring you far, so have hope! What to feel like a true Hunter? Here's some merch to help you out!: https://link.amazon/B06nU5pxx ; https://link.amazon/B041ygbM6 ; https://link.amazon/B0bWVM0Ot"; 
         console.log("You are a DRAGON!");
       } 
 
