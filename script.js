@@ -337,12 +337,12 @@ function display() {
   }
 
   else if (Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 > Score3) {
-    result.innerHTML = "You are KILLUA ZOLDYCK!";
+    result.innerHTML = "You are KILLUA ZOLDYCK! Even though we've head about million times the way your family tortured you, that doesn't negate how you always manage to torturously evicerate your opponent! With good styles, great skateboaring skills, and an even better bestfriend, you have it all figured out! What too feel just as cool, calm, and collected? Here's some merch to fill those tiny, yet powerful shoes!: https://link.amazon/B0bVUCNLS ; https://link.amazon/B0hFgCdM9 ; https://link.amazon/B0e7VRU6v";
     console.log("You are a WIZARD!");
   }
 
   else if (Score6 > Score1 && Score6 > Score5 && Score6 > Score3 && Score2 > Score1 && Score2 > Score3 && Score2 > Score5 && Score6 == Score2) {
-    result.innerHTML = "You are SASUKE UCHIHA!";
+    result.innerHTML = "You are SASUKE UCHIHA! Your dark, borading aura is more intimidating than that of your skills! While very aloof and scary, you have an affinity for a certain blonde bird-ish boy who just can't get enough of you. Nonetheless, there is hope for the hidden leaf you may return. Want to step into that aloof, borading aura! Here' some merch to be just as calculated and calm!: https://link.amazon/B02hVJAgZ ; https://link.amazon/B05DD3nx6 ; https://link.amazon/B0h4tGdPa";
     console.log("You are an EXPERT TOURTURER for CRIMINALS!!");
   }
 
