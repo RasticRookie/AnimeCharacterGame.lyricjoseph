@@ -317,22 +317,22 @@ function updateResult() {
 
 function display() {
       if (Score1 > Score3 && Score1 > Score2 && Score1 > Score5 && Score1 > Score6) {
-        result.innerHTML = "You are the YUJI ITADORI!";
+        result.innerHTML = "You are the YUJI ITADORI! While he isn't the brightest, his lethal combat skills totally make up for it. With Black Flash and the power of the indomitable human spriti, there is nothing he can't acheive. Yuji currently has more foe than friends, but will he prevail? Always! Want to feel like a tough, brave high schooler? Here's some merch to step into those cool red shoes!: https://link.amazon/B08OkYHxc ; https://link.amazon/B08ERTnfc ; https://link.amazon/B0f5cx4Dq";
         console.log("You are a FOOL!");
       } 
       
       else if (Score2 > Score3 && Score2 > Score1 && Score2 > Score5 && Score2 > Score6) {
-        result.innerHTML = "You are MINA ASHIDO!";
+        result.innerHTML = "You are MINA ASHIDO! While her bubbly personality might mistake her as only a cutie pie, her acid powers are no joke. Sizzling through plastics and metals alike, she is one tough Pro-Hero! Her dance moves are epic and her kindness and bravery are second-best to none! She has grit and talent, perfect for UA High! Want to feel as cool as she looks? Here's some merch to reveal your own acide-like powers!: https://link.amazon/B0dRwqEo8 ; https://link.amazon/B0exGcES4 ; https://link.amazon/B0hJ2aRNf ; https://link.amazon/B0bYCctCO";
         console.log("You are a FAIRY!");
       } 
       
       else if (Score3 > Score1 && Score3 > Score2 && Score3 > Score5 && Score3 > Score6) {
-    result.innerHTML = "You are L LAWLIET!";
+    result.innerHTML = "You are L LAWLIET! While your detective skills are simply impeccable, you couldn't survive due to plot armor. Nonetheless, you have excellent inquiry abilities and a strange affinity for sweet treats! How that for a real detective? Even with terrible posture and clothes, you still manage to get the job down and done! Want to be a little more in his non-existent shoes? Here's some fun merch to really get going on that detective mission!: https://link.amazon/B054dsJzl ; https://link.amazon/B0cczz1Gy ; https://link.amazon/B04qD3Tsl";
     console.log("You are a CUTIE!");
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score3 && Score5 > Score6) {
-    result.innerHTML = "You are the EJIROU KIRISHIMA!";
+    result.innerHTML = "You are the EIJIRO KIRISHIMA! With a full-body rocky exterior and mushy, sweet interior, can you do wrong? With even the most unsweet guy at your side, you melt the hearts of all UA High. Even all of tokyo! While still spending tons on hair dye, this phenomenon of a Pro-Hero CAN afford it! Ha! Want to experience the awesome manliness of Eijio Kirishima again? Here's some great merch to do just that!: https://link.amazon/B01Z2sM4i ; https://link.amazon/B0guHW4kH ; https://link.amazon/B07v95a1U";
     console.log("You are a  ROYAL ADVISOR!");
   }
 
