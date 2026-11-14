@@ -327,7 +327,7 @@ function display() {
       } 
       
       else if (Score3 > Score1 && Score3 > Score2 && Score3 > Score5 && Score3 > Score6) {
-    result.innerHTML = "You are L LAWLIET! While your detective skills are simply impeccable, you couldn't survive due to plot armor. Nonetheless, you have excellent inquiry abilities and a strange affinity for sweet treats! How that for a real detective? Even with terrible posture and clothes, you still manage to get the job down and done! Want to be a little more in his non-existent shoes? Here's some fun merch to really get going on that detective mission!: https://link.amazon/B054dsJzl ; https://link.amazon/B0cczz1Gy ; https://link.amazon/B04qD3Tsl";
+    result.innerHTML = "You are L LAWLIET! While your detective skills are simply impeccable, you couldn't survive due to plot armor. Nonetheless, you have excellent inquiry abilities and a strange affinity for sweet treats! How's that for a real detective? Even with terrible posture and clothes, you still manage to get the job down and done! Want to be a little more in his non-existent shoes? Here's some fun merch to really get going on that detective mission!: https://link.amazon/B054dsJzl ; https://link.amazon/B0cczz1Gy ; https://link.amazon/B04qD3Tsl";
     console.log("You are a CUTIE!");
   }
 
@@ -347,22 +347,22 @@ function display() {
   }
 
   else if (Score1 > Score3 && Score1 > Score5 && Score1 > Score6 && Score2 > Score6 && Score2 > Score3 && Score2 > Score5 && Score1 == Score2) {
-    result.innerHTML = "You are YUMEKO JIBAMI!";
+    result.innerHTML = "You are YUMEKO JIBAMI! This crazed gambler will stop at nothing for a good time, not particular on winning or loosing. She never cared, but does it for the love of the game. While you aren't too upset about loosing millions of yen, you sure like to make your opponents do so! Want to get your gambling freak on? Here's some merch to really get into that showdown mood!: https://link.amazon/B0iAOUgY0 ; https://link.amazon/B0fM8BVpz ; https://link.amazon/B00ensL5Z ";
     console.log("You are a WITCH!");
   }
 
   else if (Score1 > Score2 && Score1 > Score5 && Score1 > Score6 && Score3 > Score6 && Score3 > Score2 && Score3 > Score5 && Score1 == Score3) {
-    result.innerHTML = "You are LELOUCH LAMPAROUGE!";
+    result.innerHTML = "You are LELOUCH LAMPAROUGE! You have begun a rebellion no army can stop, serious about revenge against Britannia! While you were once a novice, your advanced planning and coy nature has made you an indomitable threat to their regime! While there may be no hope for your love life, there is certainly some left to take down the head of state! Want to get into those rebellious vibes? Here's some merch to step into those shoes that are VERY hard to fill!: https://link.amazon/B04JNMkG3 ; https://link.amazon/B03AvTZgX ; https://link.amazon/B0bmQGKLp";
     console.log("You are a CULT LEADER AGAINST THE KING!");
   }
 
   else if (Score3 > Score2 && Score3 > Score5 && Score3 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 == Score3) {
-    result.innerHTML = "You are BOA HANCOCK!";
+    result.innerHTML = "You are BOA HANCOCK! With great power comes great responsibility, something she knows dearly. Witha  beautiful face and perfect power to go with it, what can stop her? Maybe a rubber boy, but besides that you are beloved and take your duty for your kindgom very seriously. Want to feel just as romanitcal? Here's some merch to really embody that vibe!: https://link.amazon/B0amAu9XL ; https://link.amazon/B090OE8jI ; https://link.amazon/B098rfcmV ";
     console.log("You are a HUNTSMAN!");
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score3 && Score6 == Score5) {
-    result.innerHTML = "You are MONKEY D. LUFFY! Although your captain and crew are very new at this, you've decided to travel the world with them and explore.";
+    result.innerHTML = "You are MONKEY D. LUFFY! Although your captain and crew are very new at this, you've decided to travel the world with them and explore. With your barbaric wisdom, you hope to be king of the pirates one day, the most free across the seas! Want to really get your Gum Gum No Mi on? Here' some merch to step into those silly flip flops once again!: https://link.amazon/B03lEbork ; https://link.amazon/B08KP4xn7 ; https://link.amazon/B0gOnl5lt";
     console.log("You are a PIRATE!");
   }
 
