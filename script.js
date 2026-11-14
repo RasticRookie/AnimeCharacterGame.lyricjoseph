@@ -387,12 +387,12 @@ function display() {
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score6 && Score3 > Score6 && Score3 > Score1 && Score3 > Score2 && Score5 == Score3) {
-    result.innerHTML = "You are a YOR FORGER!";
+    result.innerHTML = "You are a YOR FORGER! As a cute government official by day and dangerous assassin by night, she will stop at nothing to protect her family. Yor Forger, AKA Thorn Princess, has a body count worst than King Von himself! Yikes! Want to step into her scary yet elegant shoes? Here's so merch to do just that!: https://link.amazon/B02Lj2Bxd ; https://link.amazon/B06WCmh1W ; https://link.amazon/B0fWUwLjL";
     console.log("You are a GNOME!");
   }
 
     else if (Score5 > Score3 && Score6 > Score3 && Score2 > Score3 && Score1 > Score3 && Score5 == Score6 && Score5 == Score2 && Score5 == Score1 && Score6 == Score2 && Score6 == Score1 && Score2 == Score1) {
-      result.innerHTML = "You are PIRATE HUNTER ZORO!";
+      result.innerHTML = "You are PIRATE HUNTER ZORO! He is a fearless swordsman, bravely conquering the seas with his International friends and crew, but make no mistake. His one eye is still good enough to slash someone down. Here's some merch to make you feel more like this rebel who conquers the seas!: https://link.amazon/B0iPvgi2t ; https://link.amazon/B0dFSlqRB ; https://link.amazon/B0gCkiqd5";
       console.log("You are a FEARLESS SWORDSMAN!");
     }
 
