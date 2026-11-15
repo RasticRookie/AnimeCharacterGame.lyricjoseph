@@ -5,6 +5,11 @@ body {
   background: linear-gradient(to right, red, green, blue);
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 h1 {
   font-family: "Tourney", sans-serif;
   color: #32094e;
