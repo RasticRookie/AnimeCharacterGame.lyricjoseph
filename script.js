@@ -377,7 +377,7 @@ function display() {
   }
 
   else if (Score2 > Score1 && Score2 > Score3 && Score2 > Score6 && Score5 > Score3 && Score5 > Score1 && Score5 > Score6 && Score2 == Score5) {
-    result.innerHTML = "You are EREN YEAGER!";
+    result.innerHTML = "You are EREN YEAGER! While world domincation was not on anyone in Marley's bingo card, you still sought revenge that you created yourself. What a twist fate, am I right? Too prideful to fail and too stubborn to quit, you were once a dreaming boy who wanted to see the sea. You became a man that wanted to conquer those that wronged you. Mikaska had to use her last shread of dignity to end you, but your will lived on through every Colossal Titan that left a footprint. What a day it was! Want to embody the vibes of a true world conqueror, even in death? Here's so merch to currated such a vibe!: https://link.amazon/B02mSeufv ; https://link.amazon/B00QAIVwu ; https://link.amazon/B0fGIUAyD";
     console.log("You are a CRIMINAL!");
   }
 
