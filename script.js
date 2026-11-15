@@ -372,7 +372,7 @@ function display() {
   }
 
   else if (Score1 > Score2 && Score1 > Score3 && Score1 > Score5 && Score6 > Score3 && Score6 > Score2 && Score6 > Score5 && Score1 == Score6) {
-    result.innerHTML = "You are SAIKI K!";
+    result.innerHTML = "You are SAIKI K! Hey there, no one is buying your 'I hate my friends' act, even with Nendo. If one things for certain and two for sure, you would do anything to save them as much as you love coffee jelly. While coming off as aloof, you're just shy and introverted is all. You try to swat people away like the cockroaches you hate, but deep down you love everyone in your life. What a guy! Want to feel those super secret superpower vibes all over again? Let's get you some swaggy Saiki merch to do just that!: https://link.amazon/B0gkHSQRx ; https://link.amazon/B03ujJyng ; https://link.amazon/B02YVRXjI";
     console.log("You are a HARLOT!");
   }
 
@@ -402,7 +402,7 @@ function display() {
       } 
 
         else if (Score5 > Score6 && Score1 > Score6 && Score2 > Score6 && Score3 > Score6 && Score5 == Score1 && Score5 == Score2 && Score5 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-          result.innerHTML = "You are a NARUTO UZUMAKI! https://link.amazon/B09mSNiya ; https://link.amazon/B0i0ZdWj6 ; https://link.amazon/B06PEuIoo";
+          result.innerHTML = "You are a NARUTO UZUMAKI! While you can't stop the 'sitting on the swing' flashbacks every other episode, you sure can't let anyone stop your dreams! You're relentless and courageous, ready to throw down at a second's notice. It's no wonder the Hidden Leaf didn't know what to do with you. Even while your...heh...'friend'...deserved to be left with his clan, you were in desperate pursuit and never gave up hope. Want to be a bird for your doomed yaoi? Here's some merch to truly get into that vibe! Dattabayo!!:  https://link.amazon/B09mSNiya ; https://link.amazon/B0i0ZdWj6 ; https://link.amazon/B06PEuIoo";
           console.log("You are a QUEEN!");
         } 
 
