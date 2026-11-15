@@ -412,7 +412,7 @@ function display() {
           } 
 
   else {
-    result.innerHTML = "You are SATORU GOJO!";
+    result.innerHTML = "You are SATORU GOJO! Evern can;t do soemthing, exept you of course, and you hae unlimited abilites. Go figure when your one true love went crazy over those with cursed energy. Darn monkeys. Everyone sees you as 'The One', but your students, who genuinely cherish youa s a person. You have never stopped yourself froma sweet treat and can't help but being good at it all? Why's that your fault? Who knows! Six Eyes and Purple Hallow, am I right? heh...*crickets*...While you are limited on friends, you are never limited on hotness or silly/serious energy. Very powerful. Very tantalizing. Much aura, even though Sukuna still beat you to it. Want to embrace it? Here's some merch to feel just as painfully heroic!: https://link.amazon/B03EJ7kML ; https://link.amazon/B03V1mDNO ; https://link.amazon/B02NWhD3T";
     console.log("SOmethings wrong...!");
   }
   
