@@ -382,7 +382,7 @@ function display() {
   }
 
   else if (Score2 > Score1 && Score2 > Score5 && Score2 > Score6 && Score3 > Score5 && Score3 > Score1 && Score3 > Score6 && Score2 == Score3) {
-    result.innerHTML = "You are IZUKU MIDORIYA!";
+    result.innerHTML = "You are IZUKU MIDORIYA! Almost defeating a sludge villian, conquering your childhood frienemy, and saving UA High with the help of your friends more than once, you really deserved that statue mpre than Monama. Nonetheless, you are revered as a hero without fail. Throughout highschool, you never failed to show kindness to the weakest and courage to the strongest. That takes guts. Takes heart. Take a strong willpower they couldn't give you hair to eat. It was always there. Want to really step into those red shoes that are hard to fill? Here's some cool merch to embody that awesome vibe! Go Beyond!!: https://link.amazon/B08nU9f9p ; https://link.amazon/B02bA3ZX3 ; https://link.amazon/B0hBKU7Dh";
     console.log("You are a !");
   }
 
