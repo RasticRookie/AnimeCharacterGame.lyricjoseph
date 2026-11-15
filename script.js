@@ -407,7 +407,7 @@ function display() {
         } 
 
           else if (Score6 > Score5 && Score1 > Score5 && Score2 > Score5 && Score3 > Score5 && Score5 == Score5 && Score6 == Score2 && Score6 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-            result.innerHTML = "You are a BAKUGO KATSUKI!";
+            result.innerHTML = "You are a BAKUGO KATSUKI! With a quirk as explosive as your personality, your were always meant to be our favorite anti-hero. It was inevitable and quite frankly, very needed in this school of sweetheart mini-heros. We need a little fire with a soft interior. So cool, not even death could keep you down, you were flying so fast there was no stopping you. You know what else didn't stop? That smile, joy to be the truest to yourself as you were relentless in pursuit of Killing All for One. The man, the myth, the LEGEND! Want to feel some of those legendary vibes all over again? Here's some merch to really get your Kacchan Bakugo on!: https://link.amazon/B089ICZio ; https://link.amazon/B01sbcTpL ; https://link.amazon/B0i3knF5h";
             console.log("You are a NOMAD!");
           } 
 
