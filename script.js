@@ -402,7 +402,7 @@ function display() {
       } 
 
         else if (Score5 > Score6 && Score1 > Score6 && Score2 > Score6 && Score3 > Score6 && Score5 == Score1 && Score5 == Score2 && Score5 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-          result.innerHTML = "You are a NARUTO UZUMAKI!";
+          result.innerHTML = "You are a NARUTO UZUMAKI! https://link.amazon/B09mSNiya ; https://link.amazon/B0i0ZdWj6 ; https://link.amazon/B06PEuIoo";
           console.log("You are a QUEEN!");
         } 
 
