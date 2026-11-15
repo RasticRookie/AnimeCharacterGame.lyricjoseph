@@ -317,7 +317,7 @@ function updateResult() {
 
 function display() {
       if (Score1 > Score3 && Score1 > Score2 && Score1 > Score5 && Score1 > Score6) {
-        result.innerHTML = "You are the YUJI ITADORI! While he isn't the brightest, his lethal combat skills totally make up for it. With Black Flash and the power of the indomitable human spriti, there is nothing he can't acheive. Yuji currently has more foe than friends, but will he prevail? Always! Want to feel like a tough, brave high schooler? Here's some merch to step into those cool red shoes!: https://link.amazon/B08OkYHxc ; https://link.amazon/B08ERTnfc ; https://link.amazon/B0f5cx4Dq";
+        result.innerHTML = "You are the YUJI ITADORI! While he isn't the brightest, his lethal combat skills totally make up for it. With Black Flash and the power of the indomitable human spirit, there is nothing he can't acheive. Yuji currently has more foe than friends, but will he prevail? Always! Want to feel like a tough, brave high schooler? Here's some merch to step into those cool red shoes!: https://link.amazon/B08OkYHxc ; https://link.amazon/B08ERTnfc ; https://link.amazon/B0f5cx4Dq";
         console.log("You are a FOOL!");
       } 
       
@@ -332,22 +332,22 @@ function display() {
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score3 && Score5 > Score6) {
-    result.innerHTML = "You are the EIJIRO KIRISHIMA! With a full-body rocky exterior and mushy, sweet interior, can you do wrong? With even the most unsweet guy at your side, you melt the hearts of all UA High. Even all of tokyo! While still spending tons on hair dye, this phenomenon of a Pro-Hero CAN afford it! Ha! Want to experience the awesome manliness of Eijio Kirishima again? Here's some great merch to do just that!: https://link.amazon/B01Z2sM4i ; https://link.amazon/B0guHW4kH ; https://link.amazon/B07v95a1U";
+    result.innerHTML = "You are the EIJIRO KIRISHIMA! With a full-body rocky exterior and mushy, sweet interior, can you do wrong? With even the most unsweet guy at your side, you melt the hearts of all UA High. Even all of Tokyo! While still spending tons on hair dye, this phenomenon of a Pro-Hero CAN afford it! Ha! Want to experience the awesome manliness of Eijio Kirishima again? Here's some great merch to do just that!: https://link.amazon/B01Z2sM4i ; https://link.amazon/B0guHW4kH ; https://link.amazon/B07v95a1U";
     console.log("You are a  ROYAL ADVISOR!");
   }
 
   else if (Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 > Score3) {
-    result.innerHTML = "You are KILLUA ZOLDYCK! Even though we've head about million times the way your family tortured you, that doesn't negate how you always manage to torturously evicerate your opponent! With good styles, great skateboaring skills, and an even better bestfriend, you have it all figured out! What too feel just as cool, calm, and collected? Here's some merch to fill those tiny, yet powerful shoes!: https://link.amazon/B0bVUCNLS ; https://link.amazon/B0hFgCdM9 ; https://link.amazon/B0e7VRU6v";
+    result.innerHTML = "You are KILLUA ZOLDYCK! Even though we've head about million times the way your family tortured you, that doesn't negate how you always manage to torturously evicerate your opponent! With good styles, great skateboaring skills, and an even better bestfriend, you have it all figured out! What to feel just as cool, calm, and collected? Here's some merch to fill those tiny, yet powerful shoes!: https://link.amazon/B0bVUCNLS ; https://link.amazon/B0hFgCdM9 ; https://link.amazon/B0e7VRU6v";
     console.log("You are a WIZARD!");
   }
 
   else if (Score6 > Score1 && Score6 > Score5 && Score6 > Score3 && Score2 > Score1 && Score2 > Score3 && Score2 > Score5 && Score6 == Score2) {
-    result.innerHTML = "You are SASUKE UCHIHA! Your dark, borading aura is more intimidating than that of your skills! While very aloof and scary, you have an affinity for a certain blonde bird-ish boy who just can't get enough of you. Nonetheless, there is hope for the hidden leaf you may return. Want to step into that aloof, borading aura! Here' some merch to be just as calculated and calm!: https://link.amazon/B02hVJAgZ ; https://link.amazon/B05DD3nx6 ; https://link.amazon/B0h4tGdPa";
+    result.innerHTML = "You are SASUKE UCHIHA! Your dark, borading aura is more intimidating than that of your skills! While very aloof and scary, you have an affinity for a certain blonde bird-ish boy who just can't get enough of you. Nonetheless, there is hope for the Hidden Leaf you may return. Want to step into that aloof, brooding aura? Here's some merch to be just as calculated and calm!: https://link.amazon/B02hVJAgZ ; https://link.amazon/B05DD3nx6 ; https://link.amazon/B0h4tGdPa";
     console.log("You are an EXPERT TOURTURER for CRIMINALS!!");
   }
 
   else if (Score1 > Score3 && Score1 > Score5 && Score1 > Score6 && Score2 > Score6 && Score2 > Score3 && Score2 > Score5 && Score1 == Score2) {
-    result.innerHTML = "You are YUMEKO JIBAMI! This crazed gambler will stop at nothing for a good time, not particular on winning or loosing. She never cared, but does it for the love of the game. While you aren't too upset about loosing millions of yen, you sure like to make your opponents do so! Want to get your gambling freak on? Here's some merch to really get into that showdown mood!: https://link.amazon/B0iAOUgY0 ; https://link.amazon/B0fM8BVpz ; https://link.amazon/B00ensL5Z ";
+    result.innerHTML = "You are YUMEKO JIBAMI! This crazed gambler will stop at nothing for a good time, not particular on winning OR loosing. She never cared, but does it for the love of the game. While you aren't too upset about loosing millions of yen, you sure like to make your opponents do so! Want to get your gambling freak on? Here's some merch to really get into that showdown mood!: https://link.amazon/B0iAOUgY0 ; https://link.amazon/B0fM8BVpz ; https://link.amazon/B00ensL5Z ";
     console.log("You are a WITCH!");
   }
 
@@ -357,47 +357,47 @@ function display() {
   }
 
   else if (Score3 > Score2 && Score3 > Score5 && Score3 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score5 && Score6 == Score3) {
-    result.innerHTML = "You are BOA HANCOCK! With great power comes great responsibility, something she knows dearly. Witha  beautiful face and perfect power to go with it, what can stop her? Maybe a rubber boy, but besides that you are beloved and take your duty for your kindgom very seriously. Want to feel just as romanitcal? Here's some merch to really embody that vibe!: https://link.amazon/B0amAu9XL ; https://link.amazon/B090OE8jI ; https://link.amazon/B098rfcmV ";
+    result.innerHTML = "You are BOA HANCOCK! With great power comes great responsibility, something she knows dearly. With a beautiful face and perfect power to go with it, what can stop her? Maybe a rubber boy, but besides that you are beloved and take your duty for your kindgom very seriously. Want to feel just as romanitcal? Here's some merch to really embody that vibe!: https://link.amazon/B0amAu9XL ; https://link.amazon/B090OE8jI ; https://link.amazon/B098rfcmV ";
     console.log("You are a HUNTSMAN!");
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score1 && Score6 > Score1 && Score6 > Score2 && Score6 > Score3 && Score6 == Score5) {
-    result.innerHTML = "You are MONKEY D. LUFFY! Although your captain and crew are very new at this, you've decided to travel the world with them and explore. With your barbaric wisdom, you hope to be king of the pirates one day, the most free across the seas! Want to really get your Gum Gum No Mi on? Here' some merch to step into those silly flip flops once again!: https://link.amazon/B03lEbork ; https://link.amazon/B08KP4xn7 ; https://link.amazon/B0gOnl5lt";
+    result.innerHTML = "You are MONKEY D. LUFFY! Although your captain and crew are very new at this, you've decided to travel the world with them and explore. With your barbaric wisdom, you hope to be king of the pirates one day, the most free across the seas! Want to really get your Gum Gum No Mi on? Here's some merch to step into those silly flip flops once again!: https://link.amazon/B03lEbork ; https://link.amazon/B08KP4xn7 ; https://link.amazon/B0gOnl5lt";
     console.log("You are a PIRATE!");
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score6 && Score1 > Score6 && Score1 > Score2 && Score1 > Score3 && Score1 == Score5) {
-    result.innerHTML = "You are NANA OSAKI! While your yuri was doomed from the start, your rock career wasn't. It's impossible to have your strawberry cake and eat it too, I guess. While times with Hachi we wonderful, you couldn't help but focus on yourself instead. Coming off as aloof, you're really just a jaded lover girl. How romantical. Want to get into the depth of your feels? Currate that vibe with some fire Nana merch!: https://link.amazon/B04qEVkSI ; https://link.amazon/B00B9zzmS ; https://link.amazon/B04nJkANO";
+    result.innerHTML = "You are NANA OSAKI! While your yuri was doomed from the start, your rock career wasn't. It's impossible to have your strawberry cake and eat it too, I guess. While times with Hachi was wonderful, you couldn't help but focus on yourself instead. Coming off as aloof, you're really just a jaded lover girl. How romantical. Want to get into the depth of your feels? Currate that vibe with some fire Nana merch!: https://link.amazon/B04qEVkSI ; https://link.amazon/B00B9zzmS ; https://link.amazon/B04nJkANO";
     console.log("You are a MERMAID!");
   }
 
   else if (Score1 > Score2 && Score1 > Score3 && Score1 > Score5 && Score6 > Score3 && Score6 > Score2 && Score6 > Score5 && Score1 == Score6) {
-    result.innerHTML = "You are SAIKI K! Hey there, no one is buying your 'I hate my friends' act, even with Nendo. If one things for certain and two for sure, you would do anything to save them as much as you love coffee jelly. While coming off as aloof, you're just shy and introverted is all. You try to swat people away like the cockroaches you hate, but deep down you love everyone in your life. What a guy! Want to feel those super secret superpower vibes all over again? Let's get you some swaggy Saiki merch to do just that!: https://link.amazon/B0gkHSQRx ; https://link.amazon/B03ujJyng ; https://link.amazon/B02YVRXjI";
+    result.innerHTML = "You are SAIKI K! Hey there, no one is buying your 'I hate my friends' act, even with Nendo. If one thing's for certain and two for sure, you would do anything to save them as much as you love coffee jelly. While coming off as aloof, you're just shy and introverted is all. You try to swat people away like the cockroaches you hate, but deep down you love everyone in your life. What a guy! Want to feel those super secret superpower vibes all over again? Let's get you some swaggy Saiki merch to do just that!: https://link.amazon/B0gkHSQRx ; https://link.amazon/B03ujJyng ; https://link.amazon/B02YVRXjI";
     console.log("You are a HARLOT!");
   }
 
   else if (Score2 > Score1 && Score2 > Score3 && Score2 > Score6 && Score5 > Score3 && Score5 > Score1 && Score5 > Score6 && Score2 == Score5) {
-    result.innerHTML = "You are EREN YEAGER! While world domincation was not on anyone in Marley's bingo card, you still sought revenge that you created yourself. What a twist fate, am I right? Too prideful to fail and too stubborn to quit, you were once a dreaming boy who wanted to see the sea. You became a man that wanted to conquer those that wronged you. Mikaska had to use her last shread of dignity to end you, but your will lived on through every Colossal Titan that left a footprint. What a day it was! Want to embody the vibes of a true world conqueror, even in death? Here's so merch to currated such a vibe!: https://link.amazon/B02mSeufv ; https://link.amazon/B00QAIVwu ; https://link.amazon/B0fGIUAyD";
+    result.innerHTML = "You are EREN YEAGER! While world domination was not on anyone in Marley's bingo card, you still sought revenge that you created yourself. What a twist fate, am I right? Too prideful to fail and too stubborn to quit, you were once a dreaming boy who wanted to see the sea. You became a man that wanted to conquer those that wronged you. Mikaska had to use her last shread of dignity to end you, but your will lived on through every Colossal Titan that left a footprint. What a day it was! Want to embody the vibes of a true world conqueror, even in death? Here's some merch to currated such a vibe!: https://link.amazon/B02mSeufv ; https://link.amazon/B00QAIVwu ; https://link.amazon/B0fGIUAyD";
     console.log("You are a CRIMINAL!");
   }
 
   else if (Score2 > Score1 && Score2 > Score5 && Score2 > Score6 && Score3 > Score5 && Score3 > Score1 && Score3 > Score6 && Score2 == Score3) {
-    result.innerHTML = "You are IZUKU MIDORIYA! Almost defeating a sludge villian, conquering your childhood frienemy, and saving UA High with the help of your friends more than once, you really deserved that statue mpre than Monama. Nonetheless, you are revered as a hero without fail. Throughout highschool, you never failed to show kindness to the weakest and courage to the strongest. That takes guts. Takes heart. Take a strong willpower they couldn't give you hair to eat. It was always there. Want to really step into those red shoes that are hard to fill? Here's some cool merch to embody that awesome vibe! Go Beyond!!: https://link.amazon/B08nU9f9p ; https://link.amazon/B02bA3ZX3 ; https://link.amazon/B0hBKU7Dh";
+    result.innerHTML = "You are IZUKU MIDORIYA! Almost defeating a sludge villian, conquering your childhood frienemy, and saving UA High with the help of your friends more than once, you really deserved that statue more than Monama. Nonetheless, you are revered as a hero without fail. Throughout highschool, you never failed to show kindness to the weakest and courage to the strongest. That takes guts. Takes heart. Takes a strong willpower they couldn't give you by eating hair. It was always there. Want to really step into those red shoes that are hard to fill? Here's some cool merch to embody that awesome vibe! Go Beyond!!: https://link.amazon/B08nU9f9p ; https://link.amazon/B02bA3ZX3 ; https://link.amazon/B0hBKU7Dh";
     console.log("You are a !");
   }
 
   else if (Score5 > Score1 && Score5 > Score2 && Score5 > Score6 && Score3 > Score6 && Score3 > Score1 && Score3 > Score2 && Score5 == Score3) {
-    result.innerHTML = "You are a YOR FORGER! As a cute government official by day and dangerous assassin by night, she will stop at nothing to protect her family. Yor Forger, AKA Thorn Princess, has a body count worst than King Von himself! Yikes! Want to step into her scary yet elegant shoes? Here's so merch to do just that!: https://link.amazon/B02Lj2Bxd ; https://link.amazon/B06WCmh1W ; https://link.amazon/B0fWUwLjL";
+    result.innerHTML = "You are a YOR FORGER! As a cute government official by day and dangerous assassin by night, you will stop at nothing to protect your family. Shyly taking over your husband's heart without the power of food, you are truly a sweet lover girl. Yor Forger, AKA Thorn Princess, has a body count worst than King Von himself! Yikes! Want to step into those scary yet elegant shoes? Here's so merch to do just that!: https://link.amazon/B02Lj2Bxd ; https://link.amazon/B06WCmh1W ; https://link.amazon/B0fWUwLjL";
     console.log("You are a GNOME!");
   }
 
     else if (Score5 > Score3 && Score6 > Score3 && Score2 > Score3 && Score1 > Score3 && Score5 == Score6 && Score5 == Score2 && Score5 == Score1 && Score6 == Score2 && Score6 == Score1 && Score2 == Score1) {
-      result.innerHTML = "You are PIRATE HUNTER ZORO! He is a fearless swordsman, bravely conquering the seas with his International friends and crew, but make no mistake. His one eye is still good enough to slash someone down. Here's some merch to make you feel more like this rebel who conquers the seas!: https://link.amazon/B0iPvgi2t ; https://link.amazon/B0dFSlqRB ; https://link.amazon/B0gCkiqd5";
+      result.innerHTML = "You are PIRATE HUNTER ZORO! He is a fearless swordsman, bravely conquering the seas with his international friends and crew, but make no mistake. His one eye is still good enough to slash someone down. There is no person in the world more loyal to your captain and more dedicated to your dreams. Want to really feel the power of all three swords? Here's some merch to make you feel more like this rebel who conquers the seas!: https://link.amazon/B0iPvgi2t ; https://link.amazon/B0dFSlqRB ; https://link.amazon/B0gCkiqd5";
       console.log("You are a FEARLESS SWORDSMAN!");
     }
 
       else if (Score5 > Score1 && Score6 > Score1 && Score2 > Score1 && Score3 > Score1 && Score5 == Score6 && Score5 == Score2 && Score5 == Score3 && Score6 == Score2 && Score6 == Score3 && Score2 == Score3) {
-        result.innerHTML = "You are GON FREECSS! After catching the biggest fish in the island, you were able to take the Hunter Exam, not knowing what adventures await you! With an open mind and even more open heart, it was impossible not to find a calmer best friend along the way! Your optimism will bring you far, so have hope! What to feel like a true Hunter? Here's some merch to help you out!: https://link.amazon/B06nU5pxx ; https://link.amazon/B041ygbM6 ; https://link.amazon/B0bWVM0Ot"; 
+        result.innerHTML = "You are GON FREECSS! After catching the biggest fish in the island, you were able to take the Hunter Exam, not knowing what adventures await you! With an open mind and even more open heart, it was impossible not to find a calmer best friend along the way! Your optimism will bring you far, so have hope! Want to feel like a true Hunter? Here's some merch to help you out!: https://link.amazon/B06nU5pxx ; https://link.amazon/B041ygbM6 ; https://link.amazon/B0bWVM0Ot"; 
         console.log("You are a DRAGON!");
       } 
 
@@ -407,12 +407,12 @@ function display() {
         } 
 
           else if (Score6 > Score5 && Score1 > Score5 && Score2 > Score5 && Score3 > Score5 && Score5 == Score5 && Score6 == Score2 && Score6 == Score3 && Score1 == Score2 && Score1 == Score3 && Score2 == Score3) {
-            result.innerHTML = "You are a BAKUGO KATSUKI! With a quirk as explosive as your personality, your were always meant to be our favorite anti-hero. It was inevitable and quite frankly, very needed in this school of sweetheart mini-heros. We need a little fire with a soft interior. So cool, not even death could keep you down, you were flying so fast there was no stopping you. You know what else didn't stop? That smile, joy to be the truest to yourself as you were relentless in pursuit of Killing All for One. The man, the myth, the LEGEND! Want to feel some of those legendary vibes all over again? Here's some merch to really get your Kacchan Bakugo on!: https://link.amazon/B089ICZio ; https://link.amazon/B01sbcTpL ; https://link.amazon/B0i3knF5h";
+            result.innerHTML = "You are a BAKUGO KATSUKI! With a quirk as explosive as your personality, you were always meant to be our favorite anti-hero. It was inevitable and quite frankly, very needed in this school of sweetheart mini-heros. We need a little fire with a soft interior. So cool, not even death could keep you down, you were flying so fast there was no stopping you. You know what else didn't stop? That smile, joy to be the truest to yourself as you were relentless in pursuit of killing All for One. The man, the myth, the LEGEND! Want to feel some of those legendary vibes all over again? Here's some merch to really get your Kacchan Bakugo on!: https://link.amazon/B089ICZio ; https://link.amazon/B01sbcTpL ; https://link.amazon/B0i3knF5h";
             console.log("You are a NOMAD!");
           } 
 
   else {
-    result.innerHTML = "You are SATORU GOJO! Evern can;t do soemthing, exept you of course, and you hae unlimited abilites. Go figure when your one true love went crazy over those with cursed energy. Darn monkeys. Everyone sees you as 'The One', but your students, who genuinely cherish youa s a person. You have never stopped yourself froma sweet treat and can't help but being good at it all? Why's that your fault? Who knows! Six Eyes and Purple Hallow, am I right? heh...*crickets*...While you are limited on friends, you are never limited on hotness or silly/serious energy. Very powerful. Very tantalizing. Much aura, even though Sukuna still beat you to it. Want to embrace it? Here's some merch to feel just as painfully heroic!: https://link.amazon/B03EJ7kML ; https://link.amazon/B03V1mDNO ; https://link.amazon/B02NWhD3T";
+    result.innerHTML = "You are SATORU GOJO! Everyone can't do something, exept you of course, and you have unlimited abilites. Go figure, when your one true love went crazy over those without cursed energy. Darn monkeys. Everyone sees you as 'The One', but your students, who genuinely cherish you as a person. You have never stopped yourself from a sweet treat and can't help but being good at it all? Why's that your fault? Who knows! Six Eyes and Purple Hallow, am I right? heh...*crickets*...While you are limited on friends, you are never limited on hotness or silly/serious energy. Very powerful. Very tantalizing. Much aura, even though Sukuna still beat you to it. Want to embrace it? Here's some merch to feel just as painfully heroic!: https://link.amazon/B03EJ7kML ; https://link.amazon/B03V1mDNO ; https://link.amazon/B02NWhD3T";
     console.log("SOmethings wrong...!");
   }
   
