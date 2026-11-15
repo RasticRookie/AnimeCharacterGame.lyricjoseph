@@ -367,7 +367,7 @@ function display() {
   }
 
   else if (Score5 > Score2 && Score5 > Score3 && Score5 > Score6 && Score1 > Score6 && Score1 > Score2 && Score1 > Score3 && Score1 == Score5) {
-    result.innerHTML = "You are NANA OSAKI!";
+    result.innerHTML = "You are NANA OSAKI! While your yuri was doomed from the start, your rock career wasn't. It's impossible to have your strawberry cake and eat it too, I guess. While times with Hachi we wonderful, you couldn't help but focus on yourself instead. Coming off as aloof, you're really just a jaded lover girl. How romantical. Want to get into the depth of your feels? Currate that vibe with some fire Nana merch!: https://link.amazon/B04qEVkSI ; https://link.amazon/B00B9zzmS ; https://link.amazon/B04nJkANO";
     console.log("You are a MERMAID!");
   }
 
